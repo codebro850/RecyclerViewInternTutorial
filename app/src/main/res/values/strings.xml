@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">RecyclerViewInternTutorial</string>
+    <string name="name">Name Displays here</string>
+    <string name="age">Age Displays here</string>
+    <string name="number">Number Displays here</string>
+    <string name="add_user">Add User</string>
+</resources>
